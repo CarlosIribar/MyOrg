@@ -1,0 +1,19 @@
+{
+    "username": "carlosiribar@gmail.com", 
+    "project_name": "MyOrg", 
+    "org_url": "", 
+    "namespace": "", 
+    "metadata_container": "1dc1a000000LLzgAAG", 
+    "environment": "developer", 
+    "workspace": "/Users/CarlosIribar/Projects", 
+    "id": "QETLRQS0OV05461G3QKRYDJP7ZYT14PE", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "StaticResource", 
+        "CustomObject", 
+        "Profile"
+    ]
+}

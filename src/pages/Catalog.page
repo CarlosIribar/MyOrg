@@ -1,0 +1,12 @@
+<apex:page standardController="Merchandise__c" recordSetVar="name">
+  <!-- Begin Default Content REMOVE THIS -->
+ <apex:pageBlockSection >
+ <apex:pageBlockTable value="{!name}" var="pitem">
+ 
+ </apex:pageBlockTable>
+     <apex:outputText value="{!name}"> 
+     
+     </apex:outputText>
+ </apex:pageBlockSection>
+  <!-- End Default Content REMOVE THIS -->
+</apex:page>

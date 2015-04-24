@@ -1,0 +1,21 @@
+<apex:page sidebar="false">
+    <h1>
+        Hello world
+    </h1>
+    <apex:pageBlock title="Bloque">
+    <apex:pageBlockSection title="Section">
+     <p>
+         prueba 1
+        </p>   
+        <p>
+            prueba 2
+        </p>
+        <item>
+            Item 1
+        </item>
+        <item>
+        Item 2</item>
+     </apex:pageBlockSection>
+    
+    </apex:pageBlock>
+</apex:page>
